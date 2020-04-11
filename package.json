@@ -1,0 +1,34 @@
+{
+  "name": "chadchat_package",
+  "version": "1.0.0",
+  "description": "The OG",
+  "main": "server.js",
+  "dependencies": {
+    "expres": "^0.0.5",
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "http": "^0.0.1-security",
+    "jade": "^1.11.0",
+    "kerberos": "0.0.17",
+    "mkdirp": "git://github.com/substack/node-mkdirp.git",
+    "mongodb": "2.0.33",
+    "nan": "git+https://github.com/nodejs/nan.git",
+    "pug": "^2.0.4",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConOLeary/ChadChat.git"
+  },
+  "author": "ConOLeary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConOLeary/ChadChat/issues"
+  },
+  "homepage": "https://github.com/ConOLeary/ChadChat#readme"
+}
