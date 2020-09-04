@@ -10,7 +10,7 @@
     "fs": "0.0.1-security",
     "http": "^0.0.1-security",
     "jade": "^1.11.0",
-    "kerberos": "0.0.17",
+    "kerberos": "1.0.0",
     "mkdirp": "git://github.com/substack/node-mkdirp.git",
     "mongodb": "2.0.33",
     "nan": "git+https://github.com/nodejs/nan.git",
