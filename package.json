@@ -15,7 +15,7 @@
     "mongodb": "2.0.33",
     "nan": "git+https://github.com/nodejs/nan.git",
     "path": "^0.12.7",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "request": "^2.88.2",
     "twit": "^2.2.11"
   },
